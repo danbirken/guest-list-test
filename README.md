@@ -1,4 +1,4 @@
 guest-list-test
 ===============
 
-Test guest list
+Dan Birken <dan@thumbtack.com>
